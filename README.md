@@ -15,7 +15,7 @@
 
 <h3 align="left">Buy me a coffee:</h3>
 <p align="left">
-<a href="https://www.buymeacoffee.com/Moonshine42" target="blank"><img align="center" src="https://www.buymeacoffee.com/assets/img/guidelines/logo-mark-1.svg" alt="moonshine42" height="30" width="40" /></a>
+<a href="https://www.buymeacoffee.com/Moonshine42" target="blank"><img align="center" src="https://www.buymeacoffee.com/assets/img/guidelines/logo-mark-3.svg" alt="moonshine42" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
