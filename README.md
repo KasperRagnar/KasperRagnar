@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kasper Ragnar Fjelrad</h1>
-<h3 align="center">I am a full-stack developer, that love building everything from micro-controllers to Web APIs.</h3>
+<h3 align="center">I am a full-stack developer, that builds everything from micro-controllers to APIs.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moonshine42tech&label=Profile%20visitors&color=0e75b6&style=flat" alt="moonshine42tech" /> </p>
 
