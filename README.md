@@ -96,12 +96,14 @@
 </p>
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moonshine42tech&show_icons=true&locale=en&layout=compact&theme=nord" alt="moonshine42tech" width="450" height="180"/>
-  <br>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moonshine42tech&show_icons=true&locale=en&layout=compact&hide_border=true&theme=nord" alt="moonshine42tech"/>
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=moonshine42tech&theme=nord" alt="moonshine42tech" width="450" height="200"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=moonshine42tech&show_icons=true&locale=en&theme=nord" alt="moonshine42tech" width="450" height="200"/> 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Moonshine42tech&theme=nord&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="moonshine42tech"/>
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=moonshine42tech&show_icons=true&locale=en&hide_border=true&theme=nord" alt="moonshine42tech"/> 
 </p>
