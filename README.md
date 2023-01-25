@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **C#, software architecture and patterns**
 
-- 📫 How to reach me **kjitwork@gmail.com**
+- 📫 How to reach me **ragnarmoonshine@gmail.com**
 
 
 <h3 align="left">Buy me a coffee:</h3>
