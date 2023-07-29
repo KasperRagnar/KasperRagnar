@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kasper Ragnar Fjelrad</h1>
-<h3 align="center">I am a full-stack developer and DevOps man, that builds everything from micro-controllers to APIs.</h3>
+<h3 align="center">I am a Developer and DevOps man, that builds stuff and sometimes shares it.</h3>
 
 
 <p align="center"> 
