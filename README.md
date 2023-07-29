@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kasper Ragnar Fjelrad</h1>
 <h3 align="center">I am a Developer and DevOps man, that builds stuff and sometimes shares it.</h3>
 
-- 🔭 I’m currently working on **Developing new skills**
-
-- 📫 How to reach me **ragnarmoonshine@gmail.com**
-
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=moonshine42tech&margin-w=5&no-frame=true&theme=nord" alt="moonshine42tech" />
