@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kasper Ragnar Fjelrad</h1>
 <h3 align="center">I am a Developer and DevOps man, that builds stuff and sometimes shares it.</h3>
 
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=moonshine42tech&margin-w=5&no-frame=true&theme=nord" alt="moonshine42tech" />
-  </a> 
-</p>
-
 <h3 align="left">Buy me a coffee:</h3>
 <p align="left">
 <a href="https://www.buymeacoffee.com/Moonshine42" target="blank"><img align="center" src="https://www.buymeacoffee.com/assets/img/guidelines/logo-mark-3.svg" alt="moonshine42" height="30" width="40" /></a>
