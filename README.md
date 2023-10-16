@@ -3,8 +3,8 @@
 
 <h3 align="left">Buy me a coffee:</h3>
 <p align="left">
-<a href="https://www.buymeacoffee.com/Moonshine42" target="blank"><img align="center" src="https://www.buymeacoffee.com/assets/img/guidelines/logo-mark-3.svg" alt="moonshine42" height="30" width="40" /></a>
-<a href="https://ko-fi.com/moonshine42" target="blank"><img align="center" src="./Images/ko-fi.svg" alt="moonshine42" height="30" width="40" /></a>
+<a href="https://www.buymeacoffee.com/kasperragnar" target="blank"><img align="center" src="https://www.buymeacoffee.com/assets/img/guidelines/logo-mark-3.svg" alt="moonshine42" height="30" width="40" /></a>
+<a href="https://ko-fi.com/kasperragnar" target="blank"><img align="center" src="./Images/ko-fi.svg" alt="moonshine42" height="30" width="40" /></a>
 </p>
 
 
