@@ -19,19 +19,19 @@
 
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moonshine42tech&show_icons=true&locale=en&layout=compact&hide_border=true&theme=nord"
-    alt="moonshine42tech"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KasperRagnar&show_icons=true&locale=en&layout=compact&hide_border=true&theme=nord"
+    alt="KasperRagnar"/>
   </a>
 </p>
 
 <p>
   <a href="https://github.com/denvercoder1/github-readme-streak-stats" target="_blank" rel="noreferrer">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Moonshine42tech&theme=nord&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="moonshine42tech"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=KasperRagnar&theme=nord&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="KasperRagnar"/>
   </a>
 </p>
 
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api?username=moonshine42tech&show_icons=true&locale=en&hide_border=true&theme=nord" alt="moonshine42tech"/> 
+    <img src="https://github-readme-stats.vercel.app/api?username=KasperRagnar&show_icons=true&locale=en&hide_border=true&theme=nord" alt="KasperRagnar"/> 
   </a>
 </p>
