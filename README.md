@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kasper Ragnar Fjelrad</h1>
-<h3 align="center">I work as a DevOps Engineer.</h3>
-<h3 align="center">I like programming and making stuff in my free time.</h3>
+<h3 align="center">I like making stuff in my free time.</h3>
 
 <h3 align="left">Buy me a coffee:</h3>
 <p align="left">
